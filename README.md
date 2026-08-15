@@ -55,5 +55,3 @@ pip install notebook
 This repository serves as a personal reference and practice log covering Python fundamentals — from basic syntax and data types to functions, OOP, and small mini-projects.
 
 ## 📄 License
-
-This projec
