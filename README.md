@@ -22,3 +22,38 @@ A collection of Jupyter notebooks summarizing core Python concepts, created whil
 | `bankoperator.ipynb` | Mini project: bank operations |
 | `calculator.ipynb` | Mini project: calculator |
 | `practice.ipynb` | General practice exercises |
+## 🚀 Getting Started
+
+Clone the repository:
+
+\`\`\`bash
+git clone https://github.com/unnatissrivastava/python-summary.git
+cd python-summary
+\`\`\`
+
+Open any notebook with Jupyter:
+
+\`\`\`bash
+jupyter notebook
+\`\`\`
+
+Or open it directly in [Google Colab](https://colab.research.google.com/) by uploading the `.ipynb` file.
+
+## 🛠️ Requirements
+
+- Python 3.x
+- Jupyter Notebook or JupyterLab
+
+Install Jupyter if you don't have it:
+
+\`\`\`bash
+pip install notebook
+\`\`\`
+
+## 📝 About
+
+This repository serves as a personal reference and practice log covering Python fundamentals — from basic syntax and data types to functions, OOP, and small mini-projects.
+
+## 📄 License
+
+This project currently has no license specified.
