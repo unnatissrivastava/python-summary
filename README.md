@@ -56,4 +56,4 @@ This repository serves as a personal reference and practice log covering Python 
 
 ## 📄 License
 
-This project currently has no license specified.
+This project currently has no license 
